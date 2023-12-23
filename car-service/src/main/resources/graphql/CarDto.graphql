@@ -1,0 +1,5 @@
+type CarDto{
+    color: String
+    price: Float
+    model:String
+}

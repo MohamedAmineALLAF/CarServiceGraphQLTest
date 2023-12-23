@@ -1,0 +1,5 @@
+input CarDtoInput{
+    color: String
+    price: Float
+    model:String
+}
